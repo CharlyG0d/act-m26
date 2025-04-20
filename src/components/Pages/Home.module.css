@@ -1,0 +1,26 @@
+.home {
+    text-align: center;
+    margin-top: 3rem;
+    color: #333;
+  }
+  
+  .home h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #ef5350;
+  }
+  
+  .home span {
+    color: #2a75bb;
+  }
+  
+  .home p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .image {
+    width: 500px;
+    height: auto;
+    margin-bottom: 1rem;
+  }
